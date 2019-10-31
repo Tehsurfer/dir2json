@@ -6,7 +6,7 @@ Creates a json file describing a nested directory
 2. `cd <folder>/<to>/<copy>`
 3. `folder2json`
 
-Output:
+Example Output:
 ```
 {
     "path": "./",
