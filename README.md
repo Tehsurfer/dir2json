@@ -1,4 +1,4 @@
-# dir2json
+# folder2json
 Creates a json file describing a nested directory 
 
 ## Usage Instructions
