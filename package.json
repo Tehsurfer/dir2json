@@ -1,13 +1,25 @@
 {
-  "name": "stellate",
-  "version": "1.0.0",
+  "name": "folder2json",
+  "version": "0.1.0",
   "description": "",
-  "main": "dir2json.js",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "folder2json": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehsurfer/dir2json"
+  },
+  "author": "Jesse Khorasanee",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehsurfer/dir2json/issues"
+  },
+  "homepage": "https://github.com/tehsurfer/dir2json",
   "dependencies": {
     "directory-tree": "^2.2.4",
     "js-treeview": "^1.1.5"
