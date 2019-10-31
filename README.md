@@ -1,9 +1,9 @@
 # dir2json
 Creates a json file describing a nested directory 
 
-##Usage
+## Usage Instructions
 1. `npm install -g folder2json`
-2. `cd <folder>/<to>/<copy>`
+2. `cd <folder you wish to folder2json>`
 3. `folder2json`
 
 Example Output:
