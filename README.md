@@ -1,6 +1,11 @@
 # folder2json
 Creates a json file describing a nested directory 
 
+This can be used in combination with [Tree View Javascript packages](https://www.jqueryscript.net/blog/Best-Tree-View-Plugins-jQuery.html) to navigate your nested directories on the web.
+
+## Example (With [`js-treeview`](https://github.com/justinchmura/js-treeview)
+![directory-navigation](https://user-images.githubusercontent.com/37255664/67993054-03cb4500-fca4-11e9-9dc9-f9bb2dddc722.gif)
+
 ## Usage Instructions
 1. `npm install -g folder2json`
 2. `cd <folder you wish to folder2json>`
